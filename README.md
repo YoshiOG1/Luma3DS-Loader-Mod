@@ -15,6 +15,7 @@ A guide on how to change text on the Home Menu might be coming soon™
 
 ## Credits
 [AuroraWright](https://github.com/AuroraWright) : Created Luma3DS
+
 SciresM : Made Boot9Strap and inspired me to build this modification (has no affiliation with this)
 
 ### Don't go too crazy with this! ;)
